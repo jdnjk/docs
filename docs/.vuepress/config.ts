@@ -10,7 +10,7 @@ export default defineUserConfig({
 
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
-    hostname: 'https://jdnjk.github.io/docs',
+    hostname: 'http://docs.jdnjk.eu.org',
     repo: 'jdnjk/docs',
     docsRepo: 'jdnjk/docs',
     docsDir: 'docs',
