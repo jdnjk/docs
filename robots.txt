@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://jdnjk.github.io/docs/sitemap.xml
