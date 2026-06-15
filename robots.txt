@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://jdnjk.github.io/docs/sitemap.xml
+Sitemap: http://docs.jdnjk.eu.org/sitemap.xml
