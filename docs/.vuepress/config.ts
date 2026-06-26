@@ -18,7 +18,7 @@ export default defineUserConfig({
     navbar: [
       {
         text: '邦国文库',
-        link: '/bgjq',
+        link: '/bgjq/',
       },
     ],
     sidebar: {
